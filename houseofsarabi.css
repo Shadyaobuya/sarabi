@@ -1,7 +1,7 @@
 body{
-    background:rgb(222, 181, 174) url(colored.jpg) no-repeat;
+    background:url(jl.jpg) no-repeat;
     background-size: cover;
-    height:600px;
+    
         
     }
     
@@ -22,14 +22,14 @@ body{
         float: right;
         padding: 14px 12px;
         text-decoration: underline;
-        color: 0C0C0C ;
+        color: #202020 ;
         font-size: 30px;
         text-align: center;
         
     }
     
     a:hover{
-        background-color:DEB5AE;
+        background-color:E0BEB1;
         color: 0C0C0C ;
         
     }
@@ -50,4 +50,14 @@ body{
         color:black;
         text-align: center;
     }
+    tr,td{
+        padding: 150px;
+    }
     
+    img{
+        width: 320px;
+        height: 320px;
+    
+
+
+    }
